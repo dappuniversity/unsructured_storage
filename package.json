@@ -1,0 +1,14 @@
+{
+  "name": "unstructured_storage",
+  "version": "1.0.0",
+  "description": "Dapp University Tutorial",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "author": "Roman Storm",
+  "license": "MIT",
+  "devDependencies": {
+    "truffle-flattener": "^1.2.5"
+  }
+}
